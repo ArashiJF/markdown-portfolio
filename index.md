@@ -1,7 +1,15 @@
 ---
-#layout: default
+layout: default
 ---
-# ARE YOU NOT ENTERTAINED
-# {% include 01-name.md %}
 
-# would ya work for once?
+{% include 01-name.md %}
+
+{% include 01-name.md %}
+
+<br>
+
+{% include 02-image.md %}
+
+<br>
+
+{% include 03-links.md %}
